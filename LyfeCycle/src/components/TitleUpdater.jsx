@@ -16,7 +16,8 @@ function TitleUpdater() {
 
   return (
     <div className="main">
-      <h1>Contador: {count}</h1>
+      <h2>Atualizar título</h2>
+      <h3>Contador: {count}</h3>
       <div className="botoes">
         <button onClick={() => setCount(count + 1)}>Incrementar</button>
         <button onClick={() => setCount(count - 1)}>Decrementar</button>

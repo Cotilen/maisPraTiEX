@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+.components{
+  gap: 1em;
+}
+
+.line{
+  height: 1px;
+  background-color: #ccc;
+  margin: 1em 0;
+}

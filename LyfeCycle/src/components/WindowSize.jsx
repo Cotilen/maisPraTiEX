@@ -9,7 +9,7 @@ function WindowSize(){
     }, [window.innerWidth])
 
     return(
-        <h1>Window Size: {size}px</h1>
+        <h1>Tamanho da janela: {size}px</h1>
     )
 }
 
