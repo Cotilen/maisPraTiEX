@@ -1,0 +1,20 @@
+.breadcrumbs {
+    margin: 20px 0;
+  }
+  
+  .lista {
+    list-style: none;
+    display: flex;
+    gap: 5px;
+
+}
+
+.lista li a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+.lista li a:hover {
+    color: #ddd;
+}

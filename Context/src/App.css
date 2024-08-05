@@ -1,0 +1,113 @@
+.line{
+    width: 500px;
+    height: 2px;
+    background-color: white;
+}
+.themeProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+    width: 500px;
+}
+
+.authProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.cartProvider{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+    gap: 50px;
+}
+
+.languageProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.userPreferencerProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.notificationProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.dynamicThemeProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.userProfileProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.favoriteProvider{
+    display: flex;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.advancedLanguageProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.layoutPreferenceProvider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.layoutProfile{
+    display: flex;
+    height: auto;
+    gap: 50px;
+}

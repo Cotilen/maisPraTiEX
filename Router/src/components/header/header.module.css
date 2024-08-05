@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
+
+.lista {
+    list-style: none;
+    display: flex;
+}
+
+.lista li {
+    margin-left: 20px;
+}
+
+.lista li a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease;
+}
+
+.lista li a:hover {
+    color: #ddd;
+}
